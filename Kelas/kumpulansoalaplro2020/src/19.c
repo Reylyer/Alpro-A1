@@ -20,5 +20,6 @@ int main(){
     if(prima) printf("N=%d adalah bilangan prima", N);
     else printf("N=%d adalah bukan bilangan prima", N);
     
+    
     return 0;
 }

@@ -16,5 +16,6 @@ int main(){
     // output
     printf("Jenis=%c, Harga=Rp. %d,- sehingga harga nya sebesar Rp. %d,-", jenis, harga, (int)(harga - harga * pengali));
     
+    
     return 0;
 }

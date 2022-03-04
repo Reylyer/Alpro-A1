@@ -17,5 +17,6 @@ int main(){
     if(sum == N) printf("N=%d adalah bilangan sempurna", N);
     else printf("N=%d adalah bukan bilangan sempurna", N);
 
+
     return 0;
 }

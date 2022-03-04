@@ -17,5 +17,6 @@ int main(){
     if(N != 1) printf(" dan %d", N);
 
     
+    
     return 0;
 }

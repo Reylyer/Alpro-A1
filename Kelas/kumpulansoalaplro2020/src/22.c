@@ -21,5 +21,6 @@ int main(){
     // output
     printf("Siput membutuhkan %d hari %d malam", count/2 + count%2, count/2);
     
+    
     return 0;
 }

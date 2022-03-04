@@ -15,5 +15,6 @@ int main(){
     // output
     printf("Golongan %d, pemakaian %d kWH, maka jumlah bayarnya %d", golongan, pemakaian, tariff);
     
+    
     return 0;
 }

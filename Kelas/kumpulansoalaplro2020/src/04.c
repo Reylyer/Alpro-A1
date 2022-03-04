@@ -16,5 +16,6 @@ int main(){
     // output
     printf("%f\n%f\n", Vb, Vk);
     
+    
     return 0;
 }

@@ -21,5 +21,6 @@ int main(){
     // output
     printf("Lama parkir %d Jam Biayanya sebesar Rp. %d,-", lama, biaya);
     
+    
     return 0;
 }

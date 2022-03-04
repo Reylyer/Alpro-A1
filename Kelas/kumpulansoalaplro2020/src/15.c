@@ -15,5 +15,6 @@ int main(){
     // output
     printf("%d", upah);
     
+    
     return 0;
 }

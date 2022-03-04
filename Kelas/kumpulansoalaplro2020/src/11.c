@@ -18,5 +18,6 @@ int main(){
         } else printf("Segitiga tidak valid");
     }
     
+    
     return 0;
 }

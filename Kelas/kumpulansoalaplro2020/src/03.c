@@ -14,5 +14,6 @@ int main(){
     // output
     printf("%f", F);
     
+    
     return 0;
 }

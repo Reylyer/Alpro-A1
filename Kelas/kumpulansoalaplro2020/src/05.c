@@ -14,6 +14,7 @@ int main(){
     
     // output
     printf("%f\n%f\n", Luas, Kell);
-    
+
+
     return 0;
 }

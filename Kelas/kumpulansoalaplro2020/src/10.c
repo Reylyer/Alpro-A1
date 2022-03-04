@@ -13,5 +13,6 @@ int main(){
     if(t1<0 || t2 <0 || t3<0) printf("Masukan tahanan tidak boleh negatif");
     else printf("%d", t1 + t2 + t3);
     
+    
     return 0;
 }

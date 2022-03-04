@@ -42,5 +42,6 @@ int main(){
     // output
     printf("%d", N);
     
+    
     return 0;
 }

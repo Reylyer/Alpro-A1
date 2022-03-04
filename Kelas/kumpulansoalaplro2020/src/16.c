@@ -15,5 +15,6 @@ int main(){
     // output
     printf("Jumlah anak=%d dan Gaji pokok = %d maka tunjangan anak= %d*(10%%xGaji pokok)= %d", nAnak, gaji_pokok, maxnAnak, tunjangan);
     
+    
     return 0;
 }

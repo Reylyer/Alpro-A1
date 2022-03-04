@@ -19,5 +19,6 @@ int main(){
     // output
     printf("Jarak yang ditempuh adalah: %f", S);
     
+    
     return 0;
 }
