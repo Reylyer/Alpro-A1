@@ -25,7 +25,7 @@ int main(){
     //proses
     if(i>=1 && i<=12){
         printf("%s", nama_nama_bulan[i - 1]);
-    } else printf("Masukan nomor hari tidak tepat");
+    } else printf("Masukan nomor bulan tidak tepat");
     
     
     return 0;
