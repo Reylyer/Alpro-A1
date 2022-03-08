@@ -10,7 +10,7 @@ int main(){
     
     //proses
     tariff = golongan * 1000 * pemakaian;
-    tariff = tariff > 100000 ? tariff : 100000;
+    tariff = pemakaian < 100 ? 100 * 1000 * golongan : pemakaian < 1000 ? pemakaian * 1000 * golongan : pemakaian * 1000 * golongan * 11 / 10;
     
     // output
     printf("Golongan %d, pemakaian %d kWH, maka jumlah bayarnya %d", golongan, pemakaian, tariff);

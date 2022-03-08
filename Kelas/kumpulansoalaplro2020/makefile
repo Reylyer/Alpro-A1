@@ -1,7 +1,7 @@
 file = asd1
 
 a: create_dir
-	cl /Wall /Fo..\..\obj\  /Fe..\..\bin\ src\$(file).c
+	cl /Wall /Fo..\..\obj\  /Fe..\..\bin\ src\illegal\$(file).c
 	..\..\bin\$(file).exe
 
 create_dir:
