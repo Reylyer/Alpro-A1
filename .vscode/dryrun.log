@@ -1,6 +1,0 @@
-make.exe --dry-run --keep-going --print-directory
-make: Entering directory 's:/Kerjaan/Kuliah/Alpro/Praktikum'
-make: Leaving directory 's:/Kerjaan/Kuliah/Alpro/Praktikum'
- 
-make: *** No targets specified and no makefile found.  Stop.
- 
