@@ -8,23 +8,22 @@
 
 int main(){
 // kamus
-    float v0, t, a, S;
+    float v0, t, y;
+    const float g = 9.8;
     
 // Algoritma
     //input
-    printf("Program menghitung jarak dari GLBB\n");
+    printf("Program menghitung ketinggian benda dilempar vertikal\n");
     printf("Masukan kecepatan awal(m/s): ");
     scanf("%f", &v0);
-    printf("Masukan waktu(s): ");
+    printf("Masukan t waktu setelah diluncurkan(s): ");
     scanf("%f", &t);
-    printf("Masukan percepatan(m/s^2): ");
-    scanf("%f", &a);
-    
-    //proses
-    S = v0 * t + a*t*t/2;
+
+    // proses
+    y = v0 * t - g*t*t/2;
     
     // output
-    printf("Jarak yang ditempuh adalah: %f m", S);
+    printf("benda berada di ketinggian %f m", y);
     
     
     return 0;
