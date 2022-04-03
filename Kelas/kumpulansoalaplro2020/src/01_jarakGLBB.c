@@ -8,7 +8,10 @@
 
 int main(){
 // kamus
-    float v0, t, a, S;
+    float v0;
+    float t;
+    float a;
+    float S;
     
 // Algoritma
     //input
@@ -28,4 +31,4 @@ int main(){
     
     
     return 0;
-}
+} 

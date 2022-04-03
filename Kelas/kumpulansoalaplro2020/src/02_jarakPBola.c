@@ -1,14 +1,17 @@
 /*
- * Nama : Givandra Haikal Adjie
- * NIM  : 24060121130063
- * tgl pengerjaan: 06, maret 2022
+ * Nama Program   : jarakPBola.c
+ * Deskripsi      : menghitung dan menampilkan jarak yang ditempuh benda yang mengalami gerak parabola
+ * Nama           : Givandra Haikal Adjie - 24060121130063
+ * Tanggal        : 06, maret 2022
 **/
-
+ 
 #include <stdio.h>
 
 int main(){
 // kamus
-    float v0, t, y;
+    float v0;
+    float t;
+    float y;
     const float g = 9.8;
     
 // Algoritma

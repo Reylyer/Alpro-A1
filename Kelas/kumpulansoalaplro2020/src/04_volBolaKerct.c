@@ -1,14 +1,17 @@
 /*
- * Nama : Givandra Haikal Adjie
- * NIM  : 24060121130063
- * tgl pengerjaan: 06, maret 2022
+ * Nama Program   : volBolaKerct.c
+ * Deskripsi      : menghitung dan menampilkan volume bola dan volume kerucut
+ * Nama           : Givandra Haikal Adjie - 24060121130063
+ * Tanggal        : 06, maret 2022
 **/
-
+ 
 #include <stdio.h>
 
 int main(){
 // kamus
-    float r, Vb, Vk;
+    float r;
+    float Vb;
+    float Vk;
     const float PHI = 3.14159;
 
 // Algoritma

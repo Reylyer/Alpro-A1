@@ -1,14 +1,18 @@
 /*
- * Nama : Givandra Haikal Adjie
- * NIM  : 24060121130063
- * tgl pengerjaan: 06, maret 2022
+ * Nama Program   : gayaSentr.c
+ * Deskripsi      : menghitung dan menampilkan gaya sentripetal dari benda yang bergerak melingkar
+ * Nama           : Givandra Haikal Adjie - 24060121130063
+ * Tanggal        : 06, maret 2022
 **/
-
+ 
 #include <stdio.h>
 
 int main(){
 // kamus
-    float m, v, r, F;
+    float m;
+    float v;
+    float r;
+    float F;
     
 // Algoritma
     //input

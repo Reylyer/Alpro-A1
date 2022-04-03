@@ -1,14 +1,20 @@
 /*
- * Nama : Givandra Haikal Adjie
- * NIM  : 24060121130063
- * tgl pengerjaan: 06, maret 2022
+ * Nama Program   : luasKelLayang.c
+ * Deskripsi      : menghitung dan menampilkan luas dan keliling layang layang
+ * Nama           : Givandra Haikal Adjie - 24060121130063
+ * Tanggal        : 06, maret 2022
 **/
-
+ 
 #include <stdio.h>
 
 int main(){
 // kamus
-    float s1, s2, d1, d2, Luas, Kell;
+    float s1;
+    float s2;
+    float d1;
+    float d2;
+    float Luas;
+    float Kell;
     
 // Algoritma
     //input
@@ -28,8 +34,6 @@ int main(){
     // output
     printf("Luas layang layang sebesar %f m persegi\n", Luas);
     printf("Sementara keliling layang layang sebesar %f m", Kell);
-    
-
 
     return 0;
 }
