@@ -2,4 +2,4 @@
 Givandra Haikal Adjie - 24060121130063
 
 
-## not ilegall anymore h3h3
+## not illegal anymore h3h3
